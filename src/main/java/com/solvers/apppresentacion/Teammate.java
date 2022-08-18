@@ -28,4 +28,5 @@ public class Teammate {
     public String getHobby() {
         return hobby;
     }
+
 }

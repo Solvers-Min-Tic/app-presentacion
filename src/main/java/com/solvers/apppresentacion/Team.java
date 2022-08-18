@@ -11,5 +11,4 @@ public class Team {
         System.out.println(James.getNombreApellido() + ", " + James.getEdad() + "años. ");
         System.out.println("Ocupación: " + James.getOcupacion() + "\nHobby: " + James.getHobby() + "\n----------------------- \n");
     }
-
 }
