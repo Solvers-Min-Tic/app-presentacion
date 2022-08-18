@@ -17,20 +17,15 @@ public class Teammate {
         return nombreApellido;
     }
 
-
     public int getEdad() {
         return edad;
     }
-
 
     public String getOcupacion() {
         return ocupacion;
     }
 
-
     public String getHobby() {
         return hobby;
     }
-
-
 }
