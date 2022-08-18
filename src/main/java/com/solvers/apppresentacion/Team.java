@@ -8,10 +8,8 @@ public class Team {
 
         Teammate James = new Teammate("James Córdoba", 41, "Profesor", "Hacer música");
 
-
         System.out.println(James.getNombreApellido() + ", " + James.getEdad() + "años. ");
         System.out.println("Ocupación: " + James.getOcupacion() + "\nHobby: " + James.getHobby() + "\n----------------------- \n");
-
     }
 
 }
