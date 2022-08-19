@@ -26,6 +26,5 @@ public class Team {
         System.out.println(Giovanny.getNombreApellido() + ", " + Giovanny.getEdad() + "años. ");
         System.out.println("Ocupación: " + Giovanny.getOcupacion() + "\nHobby: " + Giovanny.getHobby() + "\n----------------------- \n");
 
-
     }
 }
